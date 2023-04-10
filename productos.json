@@ -1,0 +1,34 @@
+{
+    "productos": [
+        {
+            "id": "3",
+            "nombre": "Silla Gamer",
+            "descripcion": "NA",
+            "stock": 2,
+            "precio": "60000",
+            "descuento": "1000",
+            "categoria": "Silla Gamer",
+            "imagen": "80b274-sillagamer.webp"
+        },
+        {
+            "id": "2",
+            "nombre": "MacBook Air",
+            "descripcion": "Tiene una increíble pantalla Retina, un diseño delgado y sin ventilador que la hace muy silenciosa y una batería que te acompaña todo el día. Esta MacBook Air vuela.",
+            "stock": 4,
+            "precio": "1000000",
+            "descuento": "50000",
+            "categoria": "MacBook",
+            "imagen": "1ad4ce-Macbook.webp"
+        },
+        {
+            "id": "1",
+            "nombre": "Servicio de Diseño",
+            "descripcion": "Contactar para entregar mas información de diseño de Website",
+            "stock": "2",
+            "precio": "100000",
+            "descuento": "20000",
+            "categoria": "Diseño",
+            "imagen": "e14290-website2.jfif"
+        }
+    ]
+}
